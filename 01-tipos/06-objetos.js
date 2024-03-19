@@ -17,5 +17,4 @@ let llave = 'edad';
 personaje[llave] = 16;
 
 delete personaje.anime;
-
 console.log(personaje);
